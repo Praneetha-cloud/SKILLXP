@@ -1,0 +1,206 @@
+body{                                                                                                                                                                                                                                        margin:0px;
+    padding:0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:rgb(1, 1, 35);
+    height: 110cm;
+}
+*{
+    box-sizing:border-box;  
+}
+#logo-div{
+background-color: white;
+}
+#im-div{
+    position:absolute;
+    left:71%;
+}
+#ima-div{
+    position:absolute;
+    left:2%;
+}
+#name-div{
+    color: rgb(1, 1, 35);
+   background-color: white;
+   position:absolute;
+   left:70%;
+   top:2%;
+   font-size: 53px;
+   font-family: 'Times New Roman', Times, serif;
+}
+#note-div{
+    color: black;
+    background-color: white;
+    text-align: center;
+    font-size: 25px;
+    position: absolute;
+    left: 30%;
+    right: 30%;
+    padding: 2%;
+    border-radius: 20%;
+}
+#ref{
+    color: black;
+    background-color: white;
+    text-align: center;
+    font-size: 25px;
+    position: absolute;
+    left: 30%;
+    right: 30%;
+    top:65%;
+    padding: 2%;
+    border-radius: 20%;
+}
+#img-div{
+    position: absolute;
+    left: 85%;
+    top:47%;
+    border-radius: 20%;
+}
+#imag-div{
+    position: absolute;
+    left: 16%;
+}
+#im-div,#ima-div,#img-div,#imag-div{
+background-color:rgb(1, 1, 35) ;
+}
+#thank{
+    position: absolute;
+    top:600%;
+    left:40%;
+    right:40%;
+    text-align: center;
+    color: white;
+    background-color:rgb(1, 1, 35) ;
+    font-size: 30px;
+    
+}
+#pdf1{
+    position:absolute;
+    top: 80%;
+    left: 2%;
+    background-color: rgb(1, 1, 35);
+    border: 2px solid white;
+    border-radius: 15%;
+}
+#pdf2{
+    position:absolute;
+    top: 80%;
+    left: 52%;
+    background-color: rgb(1, 1, 35);
+    border: 2px solid white;
+    border-radius: 15%;
+}
+#pdf3{
+    position:absolute;
+    top: 145%;
+    left: 2%;
+    background-color: rgb(1, 1, 35);
+    border: 2px solid white;
+    border-radius: 15%;
+}
+#pdf4{
+    position:absolute;
+    top: 145%;
+    left: 52%;
+    background-color: rgb(1, 1, 35);
+    border: 2px solid white;
+    border-radius: 15%;
+}
+#pdf5{
+    position:absolute;
+    top: 210%;
+    left: 2%;
+    background-color: rgb(1, 1, 35);
+    border: 2px solid white;
+    border-radius: 15%;
+}
+#pdf6{
+    position:absolute;
+    top: 210%;
+    left: 52%;
+    background-color: rgb(1, 1, 35);
+    border: 2px solid white;
+    border-radius: 15%;
+}
+#pdf7{
+    position:absolute;
+    top: 275%;
+    left: 2%;
+    background-color: rgb(1, 1, 35);
+    border: 2px solid white;
+    border-radius: 15%;
+}
+#pdf8{
+    position:absolute;
+    top: 275%;
+    left: 52%;
+    background-color: rgb(1, 1, 35);
+    border: 2px solid white;
+    border-radius: 15%;
+}
+#pdf9{
+    position:absolute;
+    top: 340%;
+    left: 2%;
+    background-color: rgb(1, 1, 35);
+    border: 2px solid white;
+    border-radius: 15%;
+}
+#pdf10{
+    position:absolute;
+    top: 340%;
+    left: 52%;
+    background-color: rgb(1, 1, 35);
+    border: 2px solid white;
+    border-radius: 15%;
+}
+#pdf11{
+    position:absolute;
+    top: 405%;
+    left: 2%;
+    background-color: rgb(1, 1, 35);
+    border: 2px solid white;
+    border-radius: 15%;
+}
+#pdf12{
+    position:absolute;
+    top: 405%;
+    left: 52%;
+    background-color: rgb(1, 1, 35);
+    border: 2px solid white;
+    border-radius: 15%;
+}
+#pdf13{
+    position:absolute;
+    top: 470%;
+    left: 2%;
+    background-color: rgb(1, 1, 35);
+    border: 2px solid white;
+    border-radius: 15%;
+}
+#pdf14{
+    position:absolute;
+    top: 470%;
+    left: 52%;
+    background-color: rgb(1, 1, 35);
+    border: 2px solid white;
+    border-radius: 15%;
+}
+#pdf15{
+    position:absolute;
+    top: 535%;
+    left: 2%;
+    background-color: rgb(1, 1, 35);
+    border: 2px solid white;
+    border-radius: 15%;
+}
+#pdf16{
+    position:absolute;
+    top: 535%;
+    left: 52%;
+    background-color: rgb(1, 1, 35);
+    border: 2px solid white;
+    border-radius: 15%;background-color: rgb(1, 1, 35);
+    border: 2px solid white;
+    border-radius: 15%;
+}

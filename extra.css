@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+}
+h1
+{
+    
+    color: white;
+    text-align: center;
+}
+.subhead1
+{
+    color: darkblue;
+}
+.subhead2
+{
+    color: darkblue;
+    padding: 0 300px;
+}
+.subhead3
+{
+    color: darkblue;
+    float: left;
+}
+.subhead4
+{
+    color: darkblue;
+    padding: 0 300px;
+}
+.container1
+{
+  
+    display: flex;
+    padding: 0 90px ;
+}
+    iframe
+{
+    border: 3px solid darkblue;
+}
+.container2
+{
+    
+    display: flex;
+    padding: 500 100px ;
+    position: absolute;
+    left: 20px;
+}
+    iframe
+{
+    border: 3px solid darkblue;
+}
+#back{
+    position: absolute;
+    top:15%;
+    left:90%;
+    background-color:white;
+    border: 3px solid black;
+    color:black;
+    font-size: 30px;
+    border-radius: 10%;
+}

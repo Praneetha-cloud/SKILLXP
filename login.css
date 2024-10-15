@@ -1,0 +1,60 @@
+.form-container {
+    background-image: url('Resume.jpg');
+    background-color: rgb(1, 1, 35) ;
+    background-size: cover;
+    padding: 30px;
+    border-radius: 20px;
+    height: 500px;
+    width: 600px;
+    color:rgb(1, 1, 35); 
+    text-align: center; 
+    left:60%;
+    margin: auto;
+   }
+.form-container h2 {
+    background-color: rgb(1, 1, 35) ;
+    margin-bottom: 20px;
+    font-size:30px;
+    color: white 
+}
+.form-container input,
+.form-container textarea {
+    width: 90%; 
+    padding: 10px;
+    margin: 20px auto; 
+    border-radius: 5px;
+    border: 2px solid  rgb(1, 1, 35);
+    display: block;
+    border-color:rgb(1, 1, 35) ;
+}
+.form-container input[type="submit"] {
+    background-color: rgb(216, 216, 143)  ;
+    color: rgb(0, 0, 7);
+    cursor: pointer;
+    border: none; 
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.form-container input[type="submit"]:hover {
+    background-color:white;
+}
+.form-container{
+    position: absolute;
+    right:30%;
+    left: 28%;
+}
+body{
+    background-color:  rgb(216, 216, 143);
+}
+#back{
+    position: absolute;
+    left:93%;
+    top: 5%;
+    background-color:white;
+    border: 3px solid black;
+    color:black;
+    font-size: 30px;
+    border-radius: 10%;
+}
